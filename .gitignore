@@ -1,0 +1,8 @@
+*.zip
+*.npy
+
+das_ais.csv
+das_cable.json
+Project_Plan_Draft.docs
+
+cameras/
